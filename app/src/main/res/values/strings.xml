@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppCantina</string>
+    <string name="manuel_silva">Manuel Silva</string>
+    <string name="_12345">12345</string>
+    <string name="txtViewName">Nome</string>
+    <string name="cadastre_sua_conta">Cadastre sua conta</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="senha">Senha</string>
+    <string name="email">Email</string>
+    <string name="email_email_com">email@email.com</string>
+    <string name="celular">Celular</string>
+    <string name="_5511912345678">+5511912345678</string>
+    <string name="cadastrar">Cadastrar!</string>
+</resources>
